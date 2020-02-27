@@ -4,6 +4,9 @@ Ein Raumschiff hat:
  - Verteidigungswert 	Basis + X ( Wird modifiziert durch Forschung  )
  - Geschwindigkeit	Zur Berechnung der benötigten Zeit von Reisen
 
+Hinweis: Geschwindigkeit wird in Lichtgeschwindigkeit angegeben falls man es real&spielbar halten möchte
+
+
 Idee: Manche Raumschiffe benötigen bestimmte Forschungsstufen um erforscht/hergestellt zu werden
 
 

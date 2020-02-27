@@ -1,10 +1,10 @@
 Generelles: Die Antriebsarten können für Geschwindigkeitsboosts weiter erforscht werden lvl 1/2/3...
 
-Basic Antrieb:
+T1 Basic Antrieb:
  - Raketentriebwerk - Ermöglicht die Reise zwischen Planeten in einem Sonnensystem
 
-Fortgeschritten:
+T2 Fortgeschritten:
 	Damit man von Sonnensystem zu Sonnensystem kann
 
-God Tier:
+T3 God Tier:
 	Reise von Galaxie zu jeder anderen Galaxie

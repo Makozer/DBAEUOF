@@ -1,5 +1,5 @@
 package game.planet.buildings;
 
-public class Headquarter extends AbstractBuilding {
+public class Headquarter extends ABuilding {
 
 }

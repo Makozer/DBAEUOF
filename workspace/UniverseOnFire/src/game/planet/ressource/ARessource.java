@@ -1,10 +1,10 @@
 package game.planet.ressource;
 
-public abstract class AbstractRessource {
+public abstract class ARessource {
 	
 	protected int ressourcevalue = 0;
 
-	public AbstractRessource(int ressourcevalue) {
+	public ARessource(int ressourcevalue) {
 		this.ressourcevalue = ressourcevalue;
 	}
 

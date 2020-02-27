@@ -2,6 +2,8 @@ package game;
 
 import java.util.Date;
 
+import game.research.TechTree;
+
 public class Player {
 	
 	private int id = 0;
