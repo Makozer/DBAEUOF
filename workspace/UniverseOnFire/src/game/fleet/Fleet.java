@@ -21,6 +21,8 @@ public class Fleet {
 		
 		Fleet fleet = new Fleet();
 		fleet.addShips(new Falcon(techtree, 1));
+		fleet.addShips(new Cheetah(techtree, 1));
+		fleet.addShips(new Yamato(techtree, 1));
 		System.out.println(fleet.toString());
 	}
 	

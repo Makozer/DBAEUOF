@@ -1,7 +1,7 @@
 package game;
 
-import java.util.Date;
-
+import java.util.*;
+import game.planet.*;
 import game.research.TechTree;
 
 public class Player {
@@ -22,6 +22,8 @@ public class Player {
 	private Date created = null;
 	
 	private TechTree techtree = null;
+	
+	private ArrayList<Planet> planets = new ArrayList<Planet>();
 
 	public static void main(String[] args) {
 		// Testmain
