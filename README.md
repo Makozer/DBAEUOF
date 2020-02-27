@@ -1,2 +1,2 @@
 # DBAEUOF
-Save the forst, eat more beaver
+Save the forest, eat more beavers
