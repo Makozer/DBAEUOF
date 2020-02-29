@@ -4,7 +4,7 @@ import game.utils.*;
 
 public abstract class AResearch {
 	
-	protected Polynomial polyMod = new Polynomial(1);
+	protected AMath polyMod = new Polynomial(1);
 	protected int level = 0;
 	
 	public AResearch(int level) {

@@ -1,6 +1,6 @@
 package game.utils;
 
-public class Polynomial {
+public class Polynomial extends AMath {
 	
 	private double coefficientX4 = 0;
 	private double coefficientX3 = 0;
@@ -44,6 +44,8 @@ public class Polynomial {
 		System.out.println("Testing(x=1) 2x^2\t" + polynomial.toString() + "\n" + polynomial.getY(1) + "\n");
 	}
 	
+	
+	@Override
 	public double getY(int x) {
 		return (coefficientX4 * Math.pow(x, 4.0)) + (coefficientX3 * Math.pow(x, 3.0)) + (coefficientX2 * Math.pow(x, 2.0)) + (coefficientX1 * Math.pow(x, 1.0)) + constant;
 	}
